@@ -13,6 +13,7 @@
 		CEB202BC270EE5E3002B25A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEB202BA270EE5E3002B25A0 /* Main.storyboard */; };
 		CEB202BE270EE5E3002B25A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEB202BD270EE5E3002B25A0 /* Assets.xcassets */; };
 		CEB202C1270EE5E3002B25A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEB202BF270EE5E3002B25A0 /* LaunchScreen.storyboard */; };
+		CEB202C9270EED9F002B25A0 /* MyClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB202C8270EED9F002B25A0 /* MyClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEB202BD270EE5E3002B25A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEB202C0270EE5E3002B25A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEB202C2270EE5E3002B25A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEB202C8270EED9F002B25A0 /* MyClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CEB202B6270EE5E3002B25A0 /* SceneDelegate.swift */,
 				CEB202B8270EE5E3002B25A0 /* ViewController.swift */,
 				CEB202BA270EE5E3002B25A0 /* Main.storyboard */,
+				CEB202C8270EED9F002B25A0 /* MyClass.swift */,
 				CEB202BD270EE5E3002B25A0 /* Assets.xcassets */,
 				CEB202BF270EE5E3002B25A0 /* LaunchScreen.storyboard */,
 				CEB202C2270EE5E3002B25A0 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEB202C9270EED9F002B25A0 /* MyClass.swift in Sources */,
 				CEB202B9270EE5E3002B25A0 /* ViewController.swift in Sources */,
 				CEB202B5270EE5E3002B25A0 /* AppDelegate.swift in Sources */,
 				CEB202B7270EE5E3002B25A0 /* SceneDelegate.swift in Sources */,
